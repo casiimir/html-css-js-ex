@@ -1,5 +1,4 @@
-# html-css-js-ex
-## Exercises in HTML / CSS / JS
+# Exercises in HTML / CSS / JS
 
 <h1 align="center">Google clone</h1>
 <p align="center">
