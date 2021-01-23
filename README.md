@@ -1,5 +1,3 @@
-<h1 align="center">Exercises in HTML / CSS / JS </h1>
-
 <h2 align="center">Google clone</h2>
 <p align="center">
   <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google-image" width="250">
